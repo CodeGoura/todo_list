@@ -11,7 +11,7 @@ To contribute to the Todo App, follow these steps:
 2. **Clone the Repository:** Clone the forked repository to your local machine using Git.
 
     ```bash
-    git clone 
+    git clone https://github.com/CodeGoura/todo_list.git
     ```
 
 3. **Create a Branch:** Create a new branch for your contribution.
@@ -49,7 +49,7 @@ To contribute to the Todo App, follow these steps:
 
 ## Reporting Issues
 
-If you encounter any bugs, issues, or have suggestions for improvement, please [open an issue](https://github.com/your-username/todo-app/issues) on the repository. Provide detailed information about the problem or suggestion to help us address it effectively.
+If you encounter any bugs, issues, or have suggestions for improvement, please [open an issue](https://github.com/CodeGoura/todo_list.git/issues) on the repository. Provide detailed information about the problem or suggestion to help us address it effectively.
 
 ## License
 
